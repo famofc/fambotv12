@@ -155,4 +155,4 @@ This project is licensed under the **MIT License**. See `package.json` for detai
 
 ---
 
-**Made with ❤️ for WhatsApp automation enthusiasts!**
+**Made with ❤️ famofc**
