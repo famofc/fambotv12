@@ -31,8 +31,8 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/famofc/famofc-bot.git
-   cd famofc-bot
+   git clone https://github.com/famofc/fambotv12
+   cd fambotv12
    ```
 
 2. **Install Dependencies**:
