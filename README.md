@@ -28,6 +28,31 @@ Before you begin, ensure you have the following:
 
 ## 🛠️ Installation
 
+
+## FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/famofc/fambotv12
+cd fambotv12
+npm install
+```
+
+## RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
+```
+
+## Installing
+```bash
+$ node .
+```
+
 1. **Clone the Repository**:
 
    ```bash
