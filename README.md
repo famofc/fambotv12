@@ -39,6 +39,7 @@ apt install ffmpeg -y
 git clone https://github.com/famofc/fambotv12
 cd fambotv12
 npm install
+npm start
 ```
 
 ## RECOMMENDED INSTALL ON TERMUX
@@ -48,10 +49,6 @@ pkg install yarn
 yarn
 ```
 
-## Installing
-```bash
-$ node .
-```
 
 1. **Clone the Repository**:
 
